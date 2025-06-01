@@ -1,6 +1,6 @@
 <?php
 
-namespace Daigox\Email;
+namespace Daigox\EmailManager;
 
 use InvalidArgumentException;
 use RuntimeException;
